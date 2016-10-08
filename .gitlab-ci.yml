@@ -1,0 +1,21 @@
+# GitLab CI script
+image: gcc:6.2
+
+build:
+  stage: build
+  before_script:
+    - apt update
+    - apt -y install cmake make autoconf
+    - apt -y install qttools5-dev qt5-default qtmultimedia5-dev qtmultimedia5-examples libqt5serialport5-dev
+  script: 
+    - mkdir -p build_qmake && cd build_qmake
+    - qmake ../arduinoscope.pro
+    - make -j2
+    - cd ..
+    - mkdir -p build_cmake && cd build_cmake
+    - cmake ..
+    - make -j2
+  cache:
+       paths:
+       - "build_qmake/*.o"
+       - "build_cmake/*.o"

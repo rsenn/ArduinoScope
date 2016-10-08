@@ -1,0 +1,29 @@
+# Travis CI script
+sudo: required
+dist: trusty
+language: cpp
+
+compiler:
+  - gcc
+  - clang
+
+os:
+  - linux
+
+branches:
+  only:
+    - master
+
+before_script:
+  - sudo apt-get -qq install -y qttools5-dev qt5-default qtmultimedia5-dev qtmultimedia5-examples libqt5serialport5-dev
+  - sudo apt-get -qq install -y libudev-dev
+
+script:
+  - mkdir -p build_qmake && cd build_qmake
+  - qmake ../arduinoscope.pro
+  - make -j2
+  - cd ..
+  - mkdir -p build_cmake && cd build_cmake
+  - cmake ..
+  - make -j2
+
