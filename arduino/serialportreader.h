@@ -31,7 +31,7 @@ private slots:
 
 private:
   QSerialPort *serial_port_;
-  QByteArray dataRead;
+  QByteArray data_read_;
 };
 
 #endif
