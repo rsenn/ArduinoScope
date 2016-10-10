@@ -19,12 +19,19 @@ SerialPortReader::~SerialPortReader()
 
 void SerialPortReader::readData()
 {
-  dataRead.append(serial_port_->readAll());
-  if (dataRead.contains('\n'))
+
+  if (serial_port_->canReadLine())
   {
-    QDateTime now(QDateTime::currentDateTime()); // Not good because it's the stampof the last byte message!
-    emit newLineFetched(dataRead, now);
-    dataRead.clear();
+    data_read_.append(serial_port_->readLine());
+  }
+  else
+  {
+    if (!data_read_.isEmpty())
+    {
+      QDateTime now(QDateTime::currentDateTime());
+      emit newLineFetched(data_read_, now);
+      data_read_.clear();
+    }
   }
 }
 
