@@ -7,18 +7,15 @@
 #include "arduino/serialportreader.h"
 #include "sensordatahandler.h"
 
-namespace Ui
-{
+namespace Ui {
 class MainWindow;
 }
 
-class MainWindow : public QMainWindow
-{
-Q_OBJECT
+class MainWindow : public QMainWindow {
+  Q_OBJECT
 
 public:
-  explicit
-  MainWindow(QWidget *parent = 0);
+  explicit MainWindow(QWidget* parent = 0);
   ~MainWindow();
 
 private:
@@ -26,12 +23,12 @@ private:
   void load();
   void save();
   bool initArduino();
-  void setupGraphs(QCustomPlot *custom_plot);
+  void setupGraphs(QCustomPlot* custom_plot);
   void setGraphStyle(QCustomPlot* custom_plot, const int id, const bool with_ticks);
   void setupLCDs();
   void editLegends(const int desired_graphs_count);
 
-  Ui::MainWindow *ui_;
+  Ui::MainWindow* ui_;
   QSettings settings_;
 
   QString project_directory_;
@@ -50,7 +47,6 @@ private slots:
   void on_actionParameters_triggered();
   bool on_actionSavePath_triggered();
   void on_actionAbout_triggered();
-
 };
 
 #endif // MAINWINDOW_H

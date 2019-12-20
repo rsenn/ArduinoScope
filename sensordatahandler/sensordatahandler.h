@@ -8,19 +8,16 @@
 #include <QPair>
 #include <QMutex>
 
-class SensorDataHandler
-{
+class SensorDataHandler {
 public:
-
-  struct SensorData
-  {
-    QString label; // Name of the data
-    QString unit; // Unit of the data
+  struct SensorData {
+    QString label;          // Name of the data
+    QString unit;           // Unit of the data
     QVector<double> values; // Vector of values
   };
 
-  typedef QVector<SensorData> SensorDataVector; // Vector of data
-  typedef QVector<QDateTime> TimeVector; // Time
+  typedef QVector<SensorData> SensorDataVector;                      // Vector of data
+  typedef QVector<QDateTime> TimeVector;                             // Time
   typedef QPair<TimeVector, SensorDataVector> TimeSensorDataVectors; // Time / vector of data
 
   SensorDataHandler();

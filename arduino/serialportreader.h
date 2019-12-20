@@ -14,12 +14,11 @@ QT_BEGIN_NAMESPACE
 
 QT_END_NAMESPACE
 
-class SerialPortReader : public QObject
-{
-Q_OBJECT
+class SerialPortReader : public QObject {
+  Q_OBJECT
 
 public:
-  SerialPortReader(QSerialPort *serial_port, QObject *parent = 0);
+  SerialPortReader(QSerialPort* serial_port, QObject* parent = 0);
   ~SerialPortReader();
 
 signals:
@@ -30,7 +29,7 @@ private slots:
   void handleError(QSerialPort::SerialPortError error);
 
 private:
-  QSerialPort *serial_port_;
+  QSerialPort* serial_port_;
   QByteArray data_read_;
 };
 

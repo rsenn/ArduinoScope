@@ -28,3 +28,4 @@ add_executable(${CMAKE_PROJECT_NAME} ${UIS}
 set_property(TARGET ${CMAKE_PROJECT_NAME} APPEND_STRING PROPERTY COMPILE_FLAGS "-std=c++11")
 target_link_libraries(${CMAKE_PROJECT_NAME} Qt5::Widgets Qt5::PrintSupport Qt5::SerialPort)
 
+install(TARGETS ${CMAKE_PROJECT_NAME}  DESTINATION bin)

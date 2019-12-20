@@ -1,0 +1,1172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mesa",
+				"measureCapacitance"
+			],
+			[
+				"pre",
+				"preprocess_command"
+			],
+			[
+				"BUILD_TYPE",
+				"BUILD_TYPE_RELWITHDEBINFO"
+			],
+			[
+				"Parsigr",
+				"ParsigramBalances"
+			],
+			[
+				"require_",
+				"require_parsigram"
+			],
+			[
+				"capture_",
+				"capture_api_errors"
+			],
+			[
+				"acti",
+				"activate_token"
+			],
+			[
+				"encode",
+				"encode_query_string"
+			],
+			[
+				"getaddres",
+				"getaddressesbylabel\tabc"
+			],
+			[
+				"split",
+				"split_string\tabc"
+			],
+			[
+				"capture",
+				"capture_api_errors\tabc"
+			],
+			[
+				"Trans",
+				"TransactionEndpoint\tabc"
+			],
+			[
+				"capture_er",
+				"capture_errors_json"
+			],
+			[
+				"cap",
+				"capture_errors_json"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 188.0,
+		"last_filter": "build",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"schemee",
+				"SchemeEditor: Edit Current Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"scheme",
+				"SchemeEditor: Edit Current Scheme"
+			],
+			[
+				"schemed",
+				"SchemeEditor: Edit Current Scheme"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"schemd",
+				"SchemeEditor: Edit Current Scheme"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"adva",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"schemeed",
+				"SchemeEditor: Edit Current Scheme"
+			],
+			[
+				"adv",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit ",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"SCHEMED",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"edit",
+				"SchemeEditor: Edit installed scheme"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"install p$",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"DELETE",
+				"Delete Blank Lines"
+			],
+			[
+				"moon",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"moonscr",
+				"Build With: Compile MoonScript"
+			],
+			[
+				"moons",
+				"Set Syntax: MoonScript"
+			],
+			[
+				"repository",
+				"Package Control: Remove Repository"
+			],
+			[
+				"REPOS",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope"
+	],
+	"file_history":
+	[
+		"/home/roman/.arduino15/preferences.txt",
+		"/home/roman/Dokumente/Sources/Arduino-Projects/Arduino-Projects.sublime-project",
+		"/home/roman/Dokumente/Sources/Arduino-Projects/Inductance_Capacitance_Meter/Inductance_Capacitance_Meter.cpp",
+		"/home/roman/Dokumente/Sources/c-utils/test.circuit",
+		"/home/roman/Sources/c-utils/eagle-to-circuit.c",
+		"/home/roman/Sources/c-utils/build/examples.mk",
+		"/home/roman/Sources/an-tronics/eagle/40106-4069-Synth.brd",
+		"/home/roman/Sources/c-utils/lib/byte.h",
+		"/home/roman/Sources/c-utils/lib/buffer/buffer_putspad.c",
+		"/home/roman/Sources/c-utils/lib/buffer.h",
+		"/home/roman/Sources/c-utils/lib/cb.h",
+		"/home/roman/Sources/c-utils/jsontest.c",
+		"/home/roman/Sources/c-utils/lib/json.h",
+		"/home/roman/Sources/c-utils/lib/json/json_print.c",
+		"/home/roman/Sources/c-utils/lib/byte/byte_copy.c",
+		"/home/roman/Sources/c-utils/lib/scan/scan_whitenskip.c",
+		"/home/roman/Sources/c-utils/hexedit.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/hmap/hmap_get.c",
+		"/home/roman/Sources/c-utils/lib/hmap/hmap_free_data.c",
+		"/home/roman/Sources/c-utils/lib/hmap.h",
+		"/home/roman/Sources/c-utils/lib/strlist.h",
+		"/home/roman/Sources/c-utils/lib/strarray/strarray_sort.c",
+		"/home/roman/Sources/c-utils/lib/strlist/strlist_sort.c",
+		"/home/roman/Sources/c-utils/lib/array.h",
+		"/home/roman/Dokumente/Sources/striprouter/bin/circuits/example.circuit",
+		"/home/roman/Dokumente/Sources/striprouter/bin/circuits/benchmark.circuit",
+		"/home/roman/Sources/c-utils/lib/str.h",
+		"/home/roman/Sources/c-utils/lib/stralloc.h",
+		"/home/roman/Dokumente/Sources/c-utils/lib/strlist/strlist_sort.c",
+		"/home/roman/Dokumente/Sources/c-utils/eagle-to-circuit.e.c",
+		"/home/roman/Sources/c-utils/jsonpp.c",
+		"/home/roman/Dokumente/Sources/c-utils/eagle-gen-cmds.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/array.h",
+		"/home/roman/Dokumente/Sources/c-utils/reg2cmd.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/hmap.h",
+		"/home/roman/Dokumente/Sources/c-utils/genmakefile.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/uint32.h",
+		"/home/roman/Dokumente/Sources/c-utils/c-utils.sublime-project",
+		"/home/roman/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/roman/Sources/c-utils/c-utils.sublime-project",
+		"/home/roman/Dokumente/Sources/c-utils/lib/str/str_triml.c",
+		"/home/roman/Dokumente/Sources/c-utils/mediathek-list.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/cbmap.h",
+		"/home/roman/Dokumente/Sources/c-utils/lib/cbmap/cbmap_alloc.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/xml/xml_path.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/xml.h",
+		"/home/roman/Dokumente/Sources/c-utils/lib/stralloc/stralloc_trimr.c",
+		"/home/roman/Sources/c-utils/lib/cb/cb_foreach.c",
+		"/home/roman/Sources/c-utils/xmlpp.c",
+		"/home/roman/Sources/c-utils/lib/http/http_get.c",
+		"/home/roman/.config/sublime-text-3/Packages/User/SublimeGDB.sublime-settings",
+		"/home/roman/Sources/c-utils/lib/strlist/strlist_pushb.c",
+		"/home/roman/Sources/c-utils/lib/strlist/strlist_pushb_unique.c",
+		"/home/roman/Sources/c-utils/mediathek-list.c",
+		"/home/roman/Sources/c-utils/lib/scan/scan_charsetnskip.c",
+		"/home/roman/Sources/c-utils/lib/scan/scan_noncharsetnskip.c",
+		"/home/roman/Sources/c-utils/lib/byte/byte_finds.c",
+		"/home/roman/Sources/c-utils/lib/path/path_canonical.c",
+		"/home/roman/Sources/c-utils/lib/ihex.h",
+		"/home/roman/Sources/c-utils/lib/ihex/ihex_read_record.c",
+		"/home/roman/Sources/c-utils/lib/ihex/ihex_read_buf.c",
+		"/home/roman/Sources/c-utils/lib/ihex/ihex_read_data.c",
+		"/home/roman/Sources/c-utils/lib/alloc/alloc_zero.c",
+		"/home/roman/Sources/c-utils/build/rdir-test",
+		"/home/roman/Sources/c-utils/testihex.c",
+		"/home/roman/Sources/c-utils/lib/scan/scan_xshort.c",
+		"/home/roman/Sources/c-utils/lib/scan/scan_xchar.c",
+		"/home/roman/Sources/c-utils/lib/slist.h",
+		"/home/roman/Sources/c-utils/lib/list.h",
+		"/home/roman/Sources/c-utils/lib/strarray.h",
+		"/home/roman/Sources/c-utils/parse.c",
+		"/home/roman/Sources/c-utils/crc.c",
+		"/home/roman/Sources/c-utils/mediathek-parser.c",
+		"/home/roman/Sources/c-utils/pkgcfg.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/path/path_relative.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/scan/scan_xchar.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/scan/scan_fromhex.c",
+		"/home/roman/Dokumente/Sources/c-utils/lib/scan/scan_xshort.c",
+		"/home/roman/Dokumente/Sources/c-utils/eagle-init-brd.c",
+		"/home/roman/Dokumente/Sources/c-utils/daemon.c",
+		"/home/roman/Dokumente/Sources/c-utils/httptest.c",
+		"/home/roman/Dokumente/Sources/c-utils/dirlist.sublime-project",
+		"/home/roman/Dokumente/Sources/c-utils/list-r.c",
+		"/home/roman/Dokumente/Sources/c-utils/bsdiffcat.c",
+		"/home/roman/Dokumente/Sources/c-utils/parse.c",
+		"/home/roman/Dokumente/Sources/c-utils/plsconv.c",
+		"/home/roman/Dokumente/Sources/c-utils/GNUmakefile",
+		"/home/roman/Dokumente/Sources/c-utils/CMakeLists.txt",
+		"/home/roman/Dokumente/Sources/c-utils/sln.c",
+		"/home/roman/Dokumente/Sources/pictest/src/timer0.c",
+		"/home/enki/lotto/test.txt",
+		"/home/enki/lotto/utils/util.js",
+		"/home/enki/lotto/pages/deposit.js",
+		"/home/enki/lotto/helpers/app.moon",
+		"/home/enki/lotto/applications/payment.lua",
+		"/home/enki/lotto/applications/payment.moon",
+		"/home/enki/lotto/helpers/payment.moon",
+		"/home/enki/lotto/helpers/json.moon",
+		"/home/enki/lotto/helpers/date.moon",
+		"/home/enki/lotto/applications/users.moon",
+		"/home/enki/lotto/applications/api.moon",
+		"/home/enki/lotto/helpers/validate.moon",
+		"/home/enki/lotto/helpers/api.moon",
+		"/home/enki/lotto/helpers/time.moon",
+		"/home/enki/lotto/applications/socket.moon",
+		"/home/enki/lotto/helpers/validate.lua",
+		"/home/enki/lotto/helpers/payment.lua",
+		"/home/enki/lotto/stores/RootStore.js",
+		"/home/enki/lotto/config.moon",
+		"/home/enki/lotto/helpers/websocket.moon",
+		"/home/enki/lotto/applications/tickets.lua",
+		"/home/enki/lotto/models/users.moon",
+		"/home/enki/lotto/helpers/app.lua",
+		"/home/enki/lotto/helpers/parsigram.moon",
+		"/home/enki/lotto/models/tickets.moon",
+		"/home/enki/lotto/nginx.conf",
+		"/home/roman/lotto/applications/api.moon",
+		"/home/roman/lotto/helpers/api.moon",
+		"/home/roman/lotto/helpers/parsigram.moon",
+		"/home/roman/lotto/static/parsigram.html",
+		"/home/roman/lotto/config.moon",
+		"/home/enki/lotto/helpers/email.moon",
+		"/home/enki/lotto/helpers/email.lua",
+		"/home/enki/lotto/helpers/perfectmoney.moon",
+		"/home/roman/lotto/helpers/perfectmoney.moon",
+		"/home/roman/lotto/docker/backend/config.moon",
+		"/home/roman/lotto/test-parsigram.moon",
+		"/home/roman/lotto/applications/payment.lua"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 258.0,
+		"where_history":
+		[
+			"/home/roman/Dokumente/Sources/c-utils,*.c,*.h",
+			"/home/roman/Dokumente/Sources/c-utils,*.c",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Voltage",
+			"buffer",
+			"^    \"",
+			"    \"",
+			"SIZEOF",
+			"measureVoltage",
+			"buffer",
+			"drawBit",
+			"display\\.",
+			" B",
+			"Meep Meep",
+			"display\\.",
+			"anti.*ali",
+			".cpp",
+			"setBusy",
+			"busy",
+			"setBusy",
+			"busy =",
+			"MsTimer",
+			"Counter",
+			"CounterV",
+			"Counter",
+			"Serial",
+			"setup",
+			"TimerTh",
+			"TimerT",
+			"TimerTh",
+			"Timer",
+			"mode++",
+			"mode ",
+			"mode",
+			"Timer1",
+			"output_part",
+			"stereo",
+			"Package",
+			"spad",
+			"board",
+			"bounds",
+			"update_bounds",
+			"build_part",
+			"output_part",
+			"bounds",
+			"output_part",
+			"component n",
+			"output_pa",
+			"output_part",
+			"putdoub",
+			"output_part",
+			"=\"C1",
+			"0.12",
+			"_part",
+			"pad1",
+			"_part",
+			"output_part",
+			"get_doub",
+			"output_part",
+			"_",
+			"clean_pkg",
+			"output_part",
+			"clean_pkgname",
+			"clean_p",
+			"clean_pack",
+			"dump_part",
+			"output_part",
+			"->packa",
+			"struct part",
+			"dump_part",
+			"build_part",
+			"Part:",
+			"pkgname\\.",
+			"\\&pkgname",
+			"pkgname",
+			"build_part",
+			"element",
+			"E2.5-4/V",
+			"name=\"C1\"",
+			"<inst",
+			"<comp",
+			"<packa.*\"SPAD..\"",
+			"\"SPAD..\"",
+			"\"SPAD....\"",
+			"\"SPAD",
+			"SPAD",
+			"<package.*SPAD",
+			"package.*SPAD",
+			"SPAD",
+			"package=",
+			"SPAD",
+			"spad",
+			"replacec",
+			"replace",
+			"E2.5-4/V",
+			"E2",
+			"lower",
+			"tolower",
+			"R3",
+			"R3\\.",
+			"byte_chrs",
+			"putspad",
+			"spad",
+			"strlist_foreach",
+			"foreach",
+			"_net",
+			"pad",
+			"output_net",
+			"dump_part",
+			"Net:",
+			"byte_diff",
+			"cmp_ref",
+			"strlist_sort",
+			"sort",
+			"strlist_sort",
+			"val_custom",
+			"diff",
+			"str_",
+			"sort.c",
+			"from",
+			"subst",
+			"stralloc_",
+			"strlist_sort",
+			"strlist_sor",
+			"output_net",
+			"MAP_VISIT_ALL",
+			"Part:",
+			"output_net",
+			"part_ref",
+			"output_",
+			"strlist"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    \"  ",
+			"    \"    \n",
+			"lcd.",
+			" 0b",
+			"lcd.",
+			"pkgname->",
+			"pkgname",
+			"output_net",
+			"MAP_NEW(\\1)",
+			"&output",
+			"output",
+			"buffer_2",
+			"buffer_1->",
+			"ppsrc",
+			"path_output",
+			"'",
+			"parse",
+			"MACH"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 194.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 319.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "Open in Arduino IDE",
+	"project": "ArduinoScope.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"test.circuit"
+			],
+			[
+				"eagle",
+				"eagle-to-circuit.c"
+			],
+			[
+				"buffer.h",
+				"lib/buffer.h"
+			],
+			[
+				"eag",
+				"eagle-to-circuit.c"
+			],
+			[
+				"",
+				"~/Dokumente/Sources/striprouter/bin/circuits/example.circuit"
+			],
+			[
+				"exam",
+				"build/examples.mk"
+			],
+			[
+				"stralloc.h",
+				"lib/stralloc.h"
+			],
+			[
+				"putspad",
+				"lib/buffer/buffer_putspad.c"
+			],
+			[
+				"buffer_putspad",
+				"lib/buffer/buffer_putspad.c"
+			],
+			[
+				"strlist.h",
+				"lib/strlist.h"
+			],
+			[
+				"byte.h",
+				"lib/byte.h"
+			],
+			[
+				"byte_chr",
+				"lib/byte/byte_chr.3"
+			],
+			[
+				"sort.c",
+				"lib/strlist/strlist_sort.c"
+			],
+			[
+				"eagle-to",
+				"eagle-to-circuit.c"
+			],
+			[
+				"hmap",
+				"lib/hmap.h"
+			],
+			[
+				"hmap_free",
+				"lib/hmap/hmap_free_data.c"
+			],
+			[
+				"str.h",
+				"lib/str.h"
+			],
+			[
+				"strlist",
+				"lib/strlist.h"
+			],
+			[
+				"strall",
+				"lib/stralloc.h"
+			],
+			[
+				"array.h",
+				"lib/array.h"
+			],
+			[
+				"cbmap.h",
+				"lib/cbmap.h"
+			],
+			[
+				"cbmap",
+				"lib/cbmap.h"
+			],
+			[
+				"cb.h",
+				"lib/cb.h"
+			],
+			[
+				"hexed",
+				"hexedit.c"
+			],
+			[
+				"json.h",
+				"lib/json.h"
+			],
+			[
+				"uint32",
+				"lib/uint32.h"
+			],
+			[
+				"json_pr",
+				"lib/json/json_print.c"
+			],
+			[
+				"jsontest",
+				"jsontest.c"
+			],
+			[
+				"json",
+				"jsonpp.c"
+			],
+			[
+				"genma",
+				"genmakefile.c"
+			],
+			[
+				"xml.h",
+				"lib/xml.h"
+			],
+			[
+				"eagle-",
+				"eagle-to-circuit.c"
+			],
+			[
+				"_trim",
+				"lib/stralloc/stralloc_trimr.c"
+			],
+			[
+				"str_trimr",
+				"lib/stralloc/stralloc_trimr.c"
+			],
+			[
+				"str_trim",
+				"lib/str/str_triml.c"
+			],
+			[
+				"xmlpp",
+				"xmlpp.c"
+			],
+			[
+				"path_re",
+				"lib/path/path_relative.c"
+			],
+			[
+				"genmake",
+				"genmakefile.c"
+			],
+			[
+				"alloc",
+				"lib/alloc/alloc_zero.c"
+			],
+			[
+				"testihe",
+				"testihex.c"
+			],
+			[
+				"rtest",
+				"build/rdir-test"
+			],
+			[
+				"slist.h",
+				"lib/slist.h"
+			],
+			[
+				"list.h",
+				"lib/list.h"
+			],
+			[
+				"ihex",
+				"lib/ihex.h"
+			],
+			[
+				"parse.c",
+				"parse.c"
+			],
+			[
+				"GNUMa",
+				"GNUmakefile"
+			],
+			[
+				"GENMA",
+				"genmakefile.c"
+			],
+			[
+				"payme",
+				"applications/payment.moon"
+			],
+			[
+				"users.moon",
+				"applications/users.moon"
+			],
+			[
+				"socket.moo",
+				"applications/socket.moon"
+			],
+			[
+				"config.moo",
+				"config.moon"
+			],
+			[
+				"config.moon",
+				"config.moon"
+			],
+			[
+				"payment",
+				"applications/payment.moon"
+			],
+			[
+				"socket",
+				"applications/socket.moon"
+			],
+			[
+				"webso",
+				"helpers/websocket.moon"
+			],
+			[
+				"websock",
+				"helpers/websocket.moon"
+			],
+			[
+				"payment.moo",
+				"applications/payment.moon"
+			],
+			[
+				"parsigram.html",
+				"static/parsigram.html"
+			],
+			[
+				"config.mo",
+				"docker/backend/config.moon"
+			],
+			[
+				"test-pa",
+				"test-parsigram.moon"
+			],
+			[
+				"test-pars",
+				"test-parsigram.moon"
+			],
+			[
+				"test-per",
+				"test-perfectmoney.moon"
+			],
+			[
+				"test-perf",
+				"test-perfectmoney.lua"
+			],
+			[
+				"parsi",
+				"helpers/parsigram.moon"
+			],
+			[
+				"app.moo",
+				"app.moon"
+			],
+			[
+				"test-pe",
+				"test-perfectmoney.moon"
+			],
+			[
+				"test-",
+				"test-parsigram.moon"
+			],
+			[
+				"pay",
+				"applications/payment.moon"
+			],
+			[
+				"drawings.moo",
+				"applications/drawings.moon"
+			],
+			[
+				"api.moon",
+				"applications/api.moon"
+			],
+			[
+				"users.moo",
+				"applications/users.moon"
+			],
+			[
+				"paymen",
+				"applications/payment.moon"
+			],
+			[
+				"models",
+				"helpers/models.moon"
+			],
+			[
+				"models.m",
+				"helpers/models.moon"
+			],
+			[
+				"bitcoin.moo",
+				"helpers/bitcoin.moon"
+			],
+			[
+				"api.moo",
+				"applications/api.moon"
+			],
+			[
+				"api.mo",
+				"helpers/api.moon"
+			],
+			[
+				"perfe",
+				"helpers/perfectmoney.moon"
+			],
+			[
+				"parsigram.moo",
+				"helpers/parsigram.moon"
+			],
+			[
+				"test-p",
+				"test-perfectmoney.moon"
+			],
+			[
+				"perfectmoney.moo",
+				"helpers/perfectmoney.moon"
+			],
+			[
+				"perfect",
+				"helpers/perfectmoney.moon"
+			],
+			[
+				"api.m",
+				"helpers/api.moon"
+			],
+			[
+				"pars",
+				"helpers/parsigram.moon"
+			],
+			[
+				"json.moo",
+				"helpers/json.moon"
+			],
+			[
+				"parsigram.mo",
+				"helpers/parsigram.moon"
+			],
+			[
+				"valida",
+				"helpers/validate.moon"
+			],
+			[
+				"validate",
+				"~/Documents/Sources/lapis-1.7.0-1/lapis/lapis/validate.moon"
+			],
+			[
+				"games",
+				"applications/games.moon"
+			],
+			[
+				"games.moo",
+				"models/games.moon"
+			],
+			[
+				"vali",
+				"helpers/validate.moon"
+			],
+			[
+				"sheta",
+				"static/shetab-deposit.html"
+			],
+			[
+				"parsig",
+				"helpers/parsigram.moon"
+			],
+			[
+				"nginx.conf",
+				"nginx.conf"
+			],
+			[
+				"nginx",
+				"nginx.conf"
+			],
+			[
+				"gate",
+				"doc/parsigram/gateway.html"
+			],
+			[
+				"test.html",
+				"static/test.html"
+			],
+			[
+				"query.",
+				"helpers/query.moon"
+			],
+			[
+				"test.moo",
+				"test.moon"
+			],
+			[
+				"mobile",
+				"static/css/mobile.css"
+			],
+			[
+				"desktop",
+				"static/css/desktop.css"
+			],
+			[
+				"application.m",
+				"applications/users.moon"
+			],
+			[
+				"users.mo",
+				"applications/users.moon"
+			],
+			[
+				"json-to",
+				"scripts/convert-json-to-po.sh"
+			],
+			[
+				"users.",
+				"applications/users.moon"
+			],
+			[
+				"ngin.",
+				"nginx.conf"
+			],
+			[
+				"app.m",
+				"app.moon"
+			],
+			[
+				"embe",
+				"embed.html"
+			],
+			[
+				"ngix",
+				"nginx.conf"
+			],
+			[
+				"components.cs",
+				"static/css/components.css"
+			],
+			[
+				"games.moon",
+				"models/games.moon"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
