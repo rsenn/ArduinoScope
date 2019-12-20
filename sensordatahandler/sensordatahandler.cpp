@@ -455,7 +455,7 @@ SensorDataHandler::pushBackTimedSensorDataValues(const QDateTime time, const QVe
   }
 
   // Check that number of pushed values matches the number of sensor data
-  if(sensor_data_values.size() != getSensorDataSize()) {
+  if(sensor_data_values.size() < getSensorDataSize()) {
     qDebug() << "pushBackTimedSensorDataValues: wrong number of values in sensor_data_values!"
              << sensor_data_values.size() << "!=" << getSensorDataSize();
     data_mutex_.unlock();

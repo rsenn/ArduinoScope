@@ -160,26 +160,26 @@ void
 MainWindow::newData(QString line, QDateTime date) {
   QRegExp rx("[;,\\s]");
   QStringList list = line.split(rx, QString::SkipEmptyParts);
-  if(list.size() != data_handler_.getSensorDataSize()) {
+  /*if(list.size() != data_handler_.getSensorDataSize()) {
     ui_->statusBar->showMessage("Wrong Arduino message! " + date.toString("hh:mm:ss:zzz"), 1000);
     std::cout << "Wrong Arduino message: " << line.toStdString() << std::endl;
 
     return;
-  }
+  }*/
 
   QVector<double> sensor_values;
   for(QString value_str : list) sensor_values << value_str.toDouble();
 
-  if(sensor_values.size() != data_handler_.getSensorDataSize()) {
+  if(sensor_values.size() < data_handler_.getSensorDataSize()) {
     ui_->statusBar->showMessage("Wrong Arduino message! " + date.toString("hh:mm:ss:zzz"), 1000);
-    std::cout << "Wrong Arduino message: " << line.toStdString() << std::endl;
+    std::cout << "Wrong Arduino message: require " << data_handler_.getSensorDataSize() << " fields - got " <<   sensor_values.size() << std::endl;
     return;
   }
 
   ui_->statusBar->showMessage("Last Arduino message received at " + date.toString("hh:mm:ss:zzz"), 1000);
 
   // Update LCDs values
-  for(int i(0); i < sensor_values.size(); ++i) {
+  for(int i(0); i < sensor_values.size() && i < data_handler_.getSensorDataSize(); ++i) {
     QLCDNumber* lcd = ui_->groupBoxSensors->findChild<QLCDNumber*>("lcd_" + QString::number(i));
     if(!lcd) {
         qDebug() << "Could not find LCD lcd_" + QString::number(i);

@@ -63,6 +63,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "qcustomplot/qcustomplot.h",
+			"settings":
+			{
+				"buffer_size": 151617,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -291,7 +300,10 @@
 	},
 	"expanded_folders":
 	[
-		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope"
+		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope",
+		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope/arduino",
+		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope/qcustomplot",
+		"/home/roman/Dokumente/Sources/rsenn/ArduinoScope/sensordatahandler"
 	],
 	"file_history":
 	[
@@ -606,8 +618,51 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "qcustomplot/qcustomplot.h",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 151617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1893,
+								1893
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"rainbowth.lispy": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
